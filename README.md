@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Vargas</h1>
 <h3 align="center">A passionate app development in Costa Rica</h3>
 
-- 🌱 I’m currently learning **App development, Spring Framework, C#, Unity**
+- 🌱 I’m currently learning **App development with Java and Spring Framework, Game development with C# and Unity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ddvargasp](https://github.com/ddvargasp)
 
